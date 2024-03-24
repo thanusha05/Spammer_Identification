@@ -1,0 +1,16 @@
+<p class="menu" style="border-bottom-style: outset"><label><a href="Cusreg.jsp">Customer Registration</a></label></p>
+<p class="menu" style="border-bottom-style: outset"><label><a href="Empreg.jsp">Employee Registration</a></label></p>
+<p class="menu" style="border-bottom-style: outset"><label><a href="EmpAttendance.jsp">Employee Attendance</a></lab
+<p class="menu" style="border-bottom-style: outset"><label><a href="RawInventory.jsp">Raw Material Inventory</a></label></p>
+<p class="menu" style="border-bottom-style: outset"><label><a href="Rawrequirements.jsp">Raw Material Requirements</a></label></p>
+<p class="menu" style="border-bottom-style: outset"><label><a href="OrderProcess.jsp">Order Processing</a></label></p>
+<p class="menu" style="border-bottom-style: outset"><label><a href="job.jsp">Process Planning</a></label></p>
+<p class="menu" style="border-bottom-style: outset"><label><a href="SalesInvoice.jsp">Sales Invoice</a></label></p>
+<p class="menu" style="border-bottom-style: outset"><label><a href="Customerdisplay.jsp">Customer Display</a></label></p>
+<p class="menu" style="border-bottom-style: outset"><label><a href="EmpDisplay.jsp">Employee Display</a></label></p>
+<p class="menu" style="border-bottom-style: outset"><label><a href="EmpAttendanceReport.jsp">Employee Attendance Display</a></label></p>
+<p class="menu" style="border-bottom-style: outset"><label><a href="RawDisplay.jsp">Raw Material Display</a></label></p>
+<p class="menu" style="border-bottom-style: outset"><label><a href="OrderDisplay.jsp">Order Processing Display</a></label></p>
+<p class="menu" style="border-bottom-style: outset"><label><a href="report.jsp">Delivery Report</a></label></p>
+<p class="menu" style="border-bottom-style: outset"><label><a href="ireport.jsp">IReport</a></label></p>
+<p class="menu" style="border-bottom-style: outset"><label><a href="Logout.jsp">Logout</a></label></p>
